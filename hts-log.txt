@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Mar 2022 12:50:40 at https://g4ming.cc/762e9ae +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://g4ming.cc/762e9ae -O1 "D:\cpa\template\pubgclone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:50:57	Error: 	"Not Found" (404) at link https://g4ming.cc/img/loading.png (from https://g4ming.cc/762e9ae)
+12:50:57	Error: 	"Not Found" (404) at link https://g4ming.cc/easports15.eot (from https://g4ming.cc/762e9ae)
+12:50:57	Error: 	"Not Found" (404) at link https://g4ming.cc/easports15.eot? (from https://g4ming.cc/762e9ae)
+12:50:57	Error: 	"Not Found" (404) at link https://g4ming.cc/easports15.woff (from https://g4ming.cc/762e9ae)
+12:50:57	Error: 	"Not Found" (404) at link https://g4ming.cc/easports15.ttf (from https://g4ming.cc/762e9ae)
+12:50:57	Error: 	"Not Found" (404) at link https://g4ming.cc/easports15.svg (from https://g4ming.cc/762e9ae)
+12:50:57	Error: 	"Not Found" (404) at link https://g4ming.cc/style.css (from https://g4ming.cc/762e9ae)
+12:50:57	Error: 	"Not Found" (404) at link https://g4ming.cc/img/point.png (from https://g4ming.cc/762e9ae)
+12:50:57	Error: 	"Not Found" (404) at link https://g4ming.cc/main.js (from https://g4ming.cc/762e9ae)
+12:50:57	Error: 	"Not Found" (404) at link https://g4ming.cc/customTemplateGlobal.set (from https://g4ming.cc/762e9ae)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 27 links scanned, 16 files written (1168723 bytes overall) [1118408 bytes received at 65788 bytes/sec], 91399 bytes transferred using HTTP compression in 2 files, ratio 30%, 1.5 requests per connection
+(10 errors, 0 warnings, 0 messages)
